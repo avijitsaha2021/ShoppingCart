@@ -1,1 +1,1 @@
-# ShoppingCart
+# shopping_cart_jquery
